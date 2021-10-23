@@ -5,7 +5,7 @@
     ],
     
     "theme": {
-        "file": "/ventoy/theme/poly-dark-master/theme.txt",
+        "file": "/ventoy/theme/poly-dark/theme.txt",
         "gfxmode": "1920x1080"
     }
 }
